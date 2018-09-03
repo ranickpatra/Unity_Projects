@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fallingball_shootter", "Assembly-CSharp-firstpass.csproj", "{91A729BE-85D0-BDB6-E72E-2B3BA8E06683}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fallingball_shootter", "Assembly-CSharp.csproj", "{33C2FAAE-D325-4260-9923-2B83FDFDE65D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fallingball_shootter", "Assembly-CSharp-Editor-firstpass.csproj", "{5E1941AD-371C-C2EC-92FE-F421D15BFD63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91A729BE-85D0-BDB6-E72E-2B3BA8E06683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91A729BE-85D0-BDB6-E72E-2B3BA8E06683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91A729BE-85D0-BDB6-E72E-2B3BA8E06683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91A729BE-85D0-BDB6-E72E-2B3BA8E06683}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33C2FAAE-D325-4260-9923-2B83FDFDE65D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33C2FAAE-D325-4260-9923-2B83FDFDE65D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33C2FAAE-D325-4260-9923-2B83FDFDE65D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33C2FAAE-D325-4260-9923-2B83FDFDE65D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E1941AD-371C-C2EC-92FE-F421D15BFD63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E1941AD-371C-C2EC-92FE-F421D15BFD63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E1941AD-371C-C2EC-92FE-F421D15BFD63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E1941AD-371C-C2EC-92FE-F421D15BFD63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
